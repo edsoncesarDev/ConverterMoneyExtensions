@@ -13,11 +13,11 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Using Include="Microsoft.VisualStudio.TestTools.UnitTesting" />
+    <ProjectReference Include="..\ConverterMoneyExtensions\ConverterMoneyExtensions.csproj" />
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\MoneyExtensions\MoneyExtensions.csproj" />
+    <Using Include="Microsoft.VisualStudio.TestTools.UnitTesting" />
   </ItemGroup>
 
 </Project>

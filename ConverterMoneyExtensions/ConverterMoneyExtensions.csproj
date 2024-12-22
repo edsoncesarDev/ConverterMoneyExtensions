@@ -19,7 +19,6 @@
 		<PackageTags>Money;int;decimal;converter</PackageTags>
 		<Title>ConverterMoneyExtension</Title>
 		<Summary>Extension to convert decimal to integer</Summary>
-		
 	</PropertyGroup>
 
 </Project>
