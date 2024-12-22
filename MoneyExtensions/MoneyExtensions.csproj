@@ -1,0 +1,25 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<TargetFramework>net8.0</TargetFramework>
+		<ImplicitUsings>enable</ImplicitUsings>
+		<Nullable>enable</Nullable>
+
+		<PackageId>ConverterMoneyExtension</PackageId>
+		<Version>1.0.0</Version>
+		<icon>https://img.icons8.com/ios/250/000000/refund-2.png</icon>
+		<Licence>MIT</Licence>
+		<Authors>edson</Authors>
+		<Company>edson.io</Company>
+		<PackageDescription>Extension to convert decimal to integer</PackageDescription>
+		<Description>Extension to convert decimal to integer</Description>
+		<RepositoryUrl>https://github.com/edsoncesarDev/ConverterMoneyExtensions</RepositoryUrl>
+		<PackageProjectUrl>https://github.com/edsoncesarDev/ConverterMoneyExtensions</PackageProjectUrl>
+		<PackageLicenseExpression>MIT</PackageLicenseExpression>
+		<PackageTags>Money;int;decimal;converter</PackageTags>
+		<Title>ConverterMoneyExtension</Title>
+		<Summary>Extension to convert decimal to integer</Summary>
+		
+	</PropertyGroup>
+
+</Project>
