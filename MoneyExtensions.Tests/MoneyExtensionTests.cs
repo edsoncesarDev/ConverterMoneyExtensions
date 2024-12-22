@@ -1,4 +1,4 @@
-﻿using ConverterMoneyExtensionsOptions;
+﻿using ConverterMoneyExtensions;
 
 namespace MoneyExtensions.Tests;
 
