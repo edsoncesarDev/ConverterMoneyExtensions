@@ -29,4 +29,3 @@ jobs:
 
         - name: Publish
           run: dotnet nuget push "ConverterMoneyExtensionsOptions/bin/Release/*.nupkg" -k ${{ secrets.SECRET_TOKEN }} -s https://api.nuget.org/v3/index.json
-    
