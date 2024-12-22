@@ -1,4 +1,6 @@
-﻿namespace MoneyExtensions.Tests;
+﻿using ConverterMoneyExtensionsOptions;
+
+namespace MoneyExtensions.Tests;
 
 [TestClass]
 public sealed class MoneyExtensionTests

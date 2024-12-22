@@ -1,4 +1,4 @@
-﻿namespace MoneyExtensions;
+﻿namespace ConverterMoneyExtensionsOptions;
 
 public static class Money
 {

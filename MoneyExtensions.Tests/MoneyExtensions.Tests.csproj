@@ -13,7 +13,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\ConverterMoneyExtensions\ConverterMoneyExtensions.csproj" />
+    <ProjectReference Include="..\ConverterMoneyExtensionsOptions\ConverterMoneyExtensionsOptions.csproj" />
   </ItemGroup>
 
   <ItemGroup>
